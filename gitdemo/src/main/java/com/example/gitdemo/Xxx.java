@@ -10,6 +10,7 @@ package com.example.gitdemo;
 public class Xxx {
 
     public static void main(String[] args) {
+        //我是组长
         System.out.println("args = " + args);
     }
 }
